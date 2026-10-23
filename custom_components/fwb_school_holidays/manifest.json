@@ -1,0 +1,12 @@
+{
+  "domain": "fwb_school_holidays",
+  "name": "Vacances Scolaires Fédération Wallonie-Bruxelles",
+  "codeowners": ["@jbuquet1979"],
+  "config_flow": true,
+  "documentation": "https://github.com/jbuquet1979/Vacances-Scolaires-FWB",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/jbuquet1979/Vacances-Scolaires-FWB/issues",
+  "requirements": [],
+  "version": "0.0.0"
+}
