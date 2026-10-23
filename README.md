@@ -1,6 +1,8 @@
 # 📅 Vacances Scolaires Fédération Wallonie-Bruxelles - Home Assistant
 
 [![HACS Badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/default)
+[![HACS Validation](https://github.com/jbuquet1979/Vacances-Scolaires-FWB/actions/workflows/hacs.yaml/badge.svg?branch=main)](https://github.com/jbuquet1979/Vacances-Scolaires-FWB/actions/workflows/hacs.yaml)
+[![Hassfest](https://github.com/jbuquet1979/Vacances-Scolaires-FWB/actions/workflows/hassfest.yml/badge.svg)](https://github.com/jbuquet1979/Vacances-Scolaires-FWB/actions/workflows/hassfest.yml)
 [![GitHub Release](https://img.shields.io/github/v/release/jbuquet1979/HACS-Vacances-Scolaires-FWB)](https://github.com/jbuquet1979/Vacances-Scolaires-FWB/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
