@@ -3,10 +3,10 @@
   "name": "Vacances Scolaires Fédération Wallonie-Bruxelles",
   "codeowners": ["@jbuquet1979"],
   "config_flow": true,
-  "documentation": "https://github.com/jbuquet1979/Vacances-Scolaires-FWB",
+  "documentation": "https://github.com/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels/",
   "integration_type": "hub",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/jbuquet1979/Vacances-Scolaires-FWB/issues",
+  "issue_tracker": "https://github.com/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels/issues",
   "requirements": [],
   "version": "1.0.0"
 }

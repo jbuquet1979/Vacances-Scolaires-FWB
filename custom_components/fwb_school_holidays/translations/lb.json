@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "FWB Schoulvakanzen",
+        "description": "Will der de Schoulvakanzekalenner fir d'Federatioun Wallonie-Bréissel konfiguréieren?"
+      }
+    },
+    "abort": {
+      "already_configured": "Dës Integratioun ass scho konfiguréiert."
+    }
+  }
+}

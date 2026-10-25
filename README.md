@@ -1,9 +1,9 @@
 # 📅 Vacances Scolaires Fédération Wallonie-Bruxelles - Home Assistant
 
 [![HACS Badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/default)
-[![HACS Validation](https://github.com/jbuquet1979/Vacances-Scolaires-FWB/actions/workflows/hacs.yaml/badge.svg?branch=main)](https://github.com/jbuquet1979/Vacances-Scolaires-FWB/actions/workflows/hacs.yaml)
-[![Hassfest](https://github.com/jbuquet1979/Vacances-Scolaires-FWB/actions/workflows/hassfest.yml/badge.svg)](https://github.com/jbuquet1979/Vacances-Scolaires-FWB/actions/workflows/hassfest.yml)
-[![GitHub Release](https://img.shields.io/github/v/release/jbuquet1979/Vacances-Scolaires-FWB)](https://github.com/jbuquet1979/Vacances-Scolaires-FWB/releases)
+[![HACS Validation](https://github.com/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels/actions/workflows/hacs.yaml/badge.svg?branch=main)](https://github.com/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels/actions/workflows/hacs.yaml)
+[![Hassfest](https://github.com/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels/actions/workflows/hassfest.yml/badge.svg)](https://github.com/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels/actions/workflows/hassfest.yml)
+[![GitHub Release](https://img.shields.io/github/v/release/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels)](https://github.com/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Composant personnalisé pour Home Assistant permettant d'intégrer automatiquement le calendrier officiel des vacances et congés scolaires de la **Fédération Wallonie-Bruxelles**.
@@ -25,7 +25,7 @@ Composant personnalisé pour Home Assistant permettant d'intégrer automatiqueme
 
 1. Ouvrez **HACS** dans Home Assistant.
 2. Cliquez sur les **3 petits points** en haut à droite, puis sur **Dépôts personnalisés**.
-3. Ajoutez l'URL du dépôt : `[https://github.com/jbuquet1979/Vacances-Scolaires-FWB](https://github.com/jbuquet1979/Vacances-Scolaires-FWB)`
+3. Ajoutez l'URL du dépôt : `[https://github.com/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels/](https://github.com/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels/)`
 4. Sélectionnez la catégorie **Intégration**.
 5. Cliquez sur **Ajouter**, recherchez **Vacances Scolaires FWB** dans HACS, puis cliquez sur **Télécharger**.
 6. Redémarrez Home Assistant.

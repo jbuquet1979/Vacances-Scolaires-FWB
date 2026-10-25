@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "FWB School Holidays",
+        "description": "Do you want to set up the school holiday calendar for the Wallonia-Brussels Federation?"
+      }
+    },
+    "abort": {
+      "already_configured": "This integration is already configured."
+    }
+  }
+}

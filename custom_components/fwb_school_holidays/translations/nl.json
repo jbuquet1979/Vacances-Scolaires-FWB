@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "FWB Schoolvakanties",
+        "description": "Wilt u de schoolvakantiekalender voor de Federatie Wallonië-Brussel configureren?"
+      }
+    },
+    "abort": {
+      "already_configured": "Deze integratie is al geconfigureerd."
+    }
+  }
+}
